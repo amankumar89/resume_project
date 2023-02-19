@@ -1,6 +1,8 @@
 # resume_project
 
-### html, css, javascript
+- [Deployed Here](https://amankumar89.github.io/resume_project/)
+
+### HTML, CSS JS
 * Mobile First View
 * Desktop First View
 * Smooth Scroll
